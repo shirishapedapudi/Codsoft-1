@@ -1,4 +1,4 @@
-[11:09, 12/7/2023] Siri❤️✨💫: /*  import google fonts */
+/*  import google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
 
 *{
@@ -605,7 +605,7 @@ footer span a:hover{
     width: 30px;
     height: 30px;
     border-radius: 50%;
-    background-color:#fff /rgb(48, 107, 180)/;
+    background-color:#fff /*rgb(48, 107, 180)*/;
     text-align: center;
     transition: 0.6s;
     box-shadow: 0 5px 4px rgba(39, 232, 203, 0.5);
@@ -739,7 +739,7 @@ footer span a:hover{
     /*transition:.5s ease ;
     opacity: 0;
     animation: slideBottom is ease forwards;
-    animation-delay: calc(.2s var(--i));/
+    animation-delay: calc(.2s *var(--i));*/
     /*margin: 30px 15px 30px 0;
     }
     
