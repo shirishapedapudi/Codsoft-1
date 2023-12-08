@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://1.bp.blogspot.com/-owDZBtWLm_M/Xe9nYuOlDzI/AAAAAAAAjBA/ojFAQ0Bq77Q-TWq7bkJdxLYw-4qzDdZfACLcBGAsYHQ/s2560/laptop_2-wallpaper-2560x1440.jpg") no-repeat center;
+    background: url("https://agileway.ca/images/home-bg-slideshow2.jpg") no-repeat center;
     height: 100vh;
     color: #78d4f3f5;
     min-height: 500px;
